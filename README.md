@@ -25,7 +25,11 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+This is a basic Pets 🐶🐱🦋🐒 project made with GraphQl project 
+- Add a pet and His owner 
+- Add the owners 
+**Note**
+its a dummy project for GraphQl
 ## Project setup
 
 ```bash
